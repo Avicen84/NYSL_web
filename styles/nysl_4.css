@@ -1,0 +1,331 @@
+#cabecera {
+    width: 100%;
+    height: 200px;
+
+}
+
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+a {
+    font-family: sans-serif;
+}
+
+#logo {
+    width: 20%;
+    height: 200px;
+}
+
+#titulo {
+    width: 830px;
+    height: 100px;
+    margin-left: 200px;
+    margin-top: -235px;
+    text-align: center;
+    font-size: 25px;
+}
+
+#navbar {
+    width: 830px;
+    height: 100px;
+    margin-left: 200px;
+    margin-top: -17px;
+    padding-top: 20px;
+}
+
+#navbar ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+#navbar li {
+    display: inline;
+    text-align: center;
+    margin: 0 10px 0 0;
+}
+
+#navbar li a {
+    padding: 2px 7px 2px 7px;
+    color: rgb(102, 102, 102);
+    background-color: rgb(238, 238, 238);
+    border: 1px solid rgb(204, 204, 204);
+    text-decoration: none;
+}
+#foto {
+    width: 300px;
+    height: 280px;
+    margin-left: 1032px;
+    margin-top: -210px;
+    margin-bottom: 500px;
+    background-image: url(images/USA_logo.png);
+    background-size: cover;
+}
+
+#cuerpo {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    font-family: sans-serif;
+    
+}
+.logostats {
+    height: 200px;    
+}
+
+body {
+    background-color: rgba(40, 136, 55, 0.58) ;
+    background-size: 
+}
+
+.info {
+    width: 80%;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.4);
+    padding: 20px;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.info h4 {
+    font-size: 25px;
+    
+}
+
+p {
+    font-size: 18px;
+}
+
+.fondo {
+    width: 100%;
+    margin-top: 50px;
+}
+
+ul square {
+    list-style-type: square;
+}
+
+ul numeros {
+    list-style-type: decimal;
+}
+
+.submenu {
+    list-style-type: lower-latin;
+    font-size: 18px;
+}
+
+.submenu ol {
+    list-style-type: square;
+}
+
+.square li{
+    list-style-type: square;
+    font-size: 18px;
+}
+
+.numeros li{
+    list-style-type: decimal;
+}
+
+.circle li {
+    list-style-type: circle;
+}
+
+h3 {
+    text-align: center;
+}
+
+.cuerpo p { 
+    margin-left: 200px;
+}
+
+.table {
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.4);
+    width: 900px;
+    padding: 10px;
+    
+}
+
+td {
+    border: 1px solid black;
+    padding: 10px 15px;
+    text-align: center;
+}
+
+th {
+    font-size: 20px;
+    text-align: center;
+}
+
+.october {
+    margin-top: 50px;
+    width: 480px;
+    font-family: sans-serif;
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin-left: 215px
+}
+
+.september {
+    margin-top: 50px;
+    width: 510px;
+    font-family: sans-serif;
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin-left: 200px;
+}
+
+.locations {
+    margin-top: 50px;
+    font-family: sans-serif;
+    margin-left: 55px;
+    width: 800px;
+}
+
+.lastinfo {
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 800px;
+}
+
+h5 {
+    font-size: 20px;
+    font-weight: 800;
+    margin-left: 70px;
+}
+
+.formulario {
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.4);
+    padding: 30px;
+}
+
+.formulario h3 {
+    text-align: left
+}
+
+.firstname {
+    width: 500px;
+
+}
+.firstname input {
+    width: 200px;
+}
+
+.lastname {
+    width: 500px;
+    margin-left: auto;
+    margin-top: -20px;
+}
+
+.lastname input {
+    width: 200px;
+}
+
+.streetaddress {
+    padding-top: 10px;
+}
+
+.streetaddress input {
+    width: 200px;
+    margin-left: 33px;
+}
+.city {
+    padding-top: 10px;
+}
+
+.city input {
+    margin-left: 112px;
+    width: 200px;
+}
+
+.zipcode {
+    padding-top: 10px;
+}
+
+.zipcode input {
+    margin-left: 75px;
+    width: 200px;
+}
+.birthdate {
+    padding-top: 10px;
+}
+
+.birthdate input {
+    margin-left: 69px;
+    width: 200px;
+}
+.gender {
+    padding-top: 20px;
+}
+
+.female {
+    padding-top: 10px;
+}
+
+.grade {
+    padding-top: 20px;
+}
+
+.preschool {
+    padding-top: 10px;
+}
+.parent {
+    padding-top: 20px;
+}
+
+.parent input {
+    width: 200px;
+    margin-left: 20px;
+}
+
+.phone {
+    padding-top: 10px;
+}
+
+.phone input {
+    width: 200px;
+    margin-left: 32px;
+}
+
+.email {
+    padding-top: 10px;
+}
+
+.email input {
+    width: 200px;
+    margin-left: 38px
+}
+.submit {
+    padding-top: 60px;
+    text-align: center;
+}
+
+.haveuniform {
+    padding-top: 30px;
+    font-weight: bold;
+}
+
+.signature {
+    width: 50%;
+}
+.signature input {
+    width: 200px;
+    margin-left: 20px;
+}
+
+.signaturedate {
+    width: 50%;
+    margin-left: auto;
+    margin-top: -22px
+    
+}
+.signaturedate input {
+    width: 200px;
+    margin-left: 20px;
+}

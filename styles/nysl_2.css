@@ -1,0 +1,108 @@
+.one {
+  width: 1200px;
+  height: 300px;
+  margin-left: 60px;
+}
+
+h2 {
+    position:relative;
+    width:1200px;
+    height:30px;
+    color: white;
+    background-color: black;
+    font-family: sans-serif;
+    border: 3px solid gray;
+    left:0px;
+    top:-20px;
+    margin-left: 60px;
+    text-align: center;
+}
+div5 img {
+    position: absolute;
+    top: 520px;
+    left: 60px;
+}
+h1 {
+  width: 1200px;
+  height: 50px;
+  margin-left: 60px;
+  font-family: sans-serif;
+  font-size: 50px;
+}
+
+.foto {
+   height: 300px;
+   width: 1200px;
+   margin-top: 40px;
+   margin-left: 60px;
+   background-image: url(images/design2_image1.jpg);
+   background-size: cover;
+}
+div1 {
+     position: absolute;
+     width: 1000px;
+     top: 520px;
+     left: 280px;
+     font-family: sans-serif;
+}
+
+p {
+  margin-left: 40px;
+  
+}
+
+.botonhome {
+   position: absolute;
+   top: 105px;
+   left: 920px;
+   width: 60px;
+   height: 20px;
+   text-align: center;
+   padding-top: 5px;
+   background: #2ecff5;
+   border: 3px black ridge;
+}
+
+.botonabout {
+   position: absolute;
+   top: 105px;
+   left: 1030px;
+   width: 60px;
+   height: 20px;
+   text-align: center;
+   padding-top: 5px;
+   background: #2ecff5;
+   border: 3px black ridge;
+}
+
+.botoncontact {
+   position: absolute;
+   top: 105px;
+   left: 1150px;
+   width: 60px;
+   height: 20px;
+   text-align: center;
+   padding-top: 5px;
+   background: #2ecff5;
+   border: 3px black ridge;
+   text-decoration: none;
+   
+   
+}
+
+div6 {
+   position: absolute;
+   left: 250px;
+   width: 500px;
+   height: 500px;
+   font-family: sans-serif;
+}
+
+a {
+  font-family: sans-serif;
+}
+
+a:hover {
+  background: #4ce252;
+  color: white;
+}

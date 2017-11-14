@@ -1,0 +1,89 @@
+#cabecera {
+    width: 1330px;
+    height: 200px;
+}
+
+#logo {
+    width: 200px;
+    height: 200px;
+}
+
+#titulo {
+    width: 830px;
+    height: 100px;
+    margin-left: 200px;
+    margin-top: -235px;
+    text-align: center;
+    font-size: 25px;
+}
+
+#navbar {
+    width: 830px;
+    height: 100px;
+    margin-left: 200px;
+    margin-top: -17px;
+    padding-top: 20px;
+}
+
+#navbar ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+#navbar li {
+    display: inline;
+    text-align: center;
+    margin: 0 10px 0 0;
+}
+
+#navbar li a {
+    padding: 2px 7px 2px 7px;
+    color: rgb(102, 102, 102);
+    background-color: rgb(238, 238, 238);
+    border: 1px solid rgb(204, 204, 204);
+    text-decoration: none;
+}
+#foto {
+    width: 300px;
+    height: 200px;
+    margin-left: 1032px;
+    margin-top: -202px;
+    margin-bottom: 500px;
+    background-image: url(images/soccer_image4.jpg);
+    background-size: cover
+}
+
+#cuerpo {
+    width: 1330px;
+}
+.logostats {
+    height: 200px;    
+}
+
+body {
+    background: url(images/soccer_image6.jpg);
+    background-size: cover
+}
+
+.info {
+    margin-left: 200px;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.info h4 {
+    font-size: 25px;
+    
+}
+
+p {
+    font-size: 23px;
+}
+
+.fondo {
+    width: 100%;
+    margin-top: 250px;
+}
